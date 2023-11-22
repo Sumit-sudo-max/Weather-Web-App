@@ -2,9 +2,14 @@
 #HTML Structure:
 The app is structured using HTML, with elements for the search form, weather information, and background.
 It includes placeholders for the city name, date and time, weather forecast, temperature, and additional weather information.
+
+
+
 #Styling:
 The app has a clean and stylish design with a semi-transparent container and well-organized weather information cards.
 The background dynamically changes based on the weather condition, providing a visually appealing experience.
+
+
 #Functionality:
 The user can input a city in the search bar to get real-time weather information.
 Temperature units can be switched between Celsius and Fahrenheit.
